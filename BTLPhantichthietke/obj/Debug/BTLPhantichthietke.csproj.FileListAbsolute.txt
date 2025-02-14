@@ -1,0 +1,87 @@
+D:\Phan Tich thiet ke\BTLPhantichthietke\obj\Debug\BTLPhantichthietke.csproj.AssemblyReference.cache
+D:\Phan Tich thiet ke\BTLPhantichthietke\obj\Debug\BTLPhantichthietke.csproj.SuggestedBindingRedirects.cache
+D:\Phan Tich thiet ke\BTLPhantichthietke\obj\Debug\BTLPhantichthietke.Properties.Resources.resources
+D:\Phan Tich thiet ke\BTLPhantichthietke\obj\Debug\BTLPhantichthietke.csproj.GenerateResource.cache
+D:\Phan Tich thiet ke\BTLPhantichthietke\obj\Debug\BTLPhantichthietke.csproj.CoreCompileInputs.cache
+D:\Phan Tich thiet ke\BTLPhantichthietke\obj\Debug\BTLPhantichthietke.DangKy.resources
+D:\Phan Tich thiet ke\BTLPhantichthietke\obj\Debug\BTLPhantichthietke.Dangnhap.resources
+D:\Phan Tich thiet ke\BTLPhantichthietke\obj\Debug\BTLPhantichthietke.FormBPthongke.resources
+D:\Phan Tich thiet ke\BTLPhantichthietke\obj\Debug\BTLPhantichthietke.Formnvchamsockhachhang.resources
+D:\Phan Tich thiet ke\BTLPhantichthietke\obj\Debug\BTLPhantichthietke.Formquanly.resources
+D:\Phan Tich thiet ke\BTLPhantichthietke\obj\Debug\BTLPhantichthietke.trangtru.resources
+D:\Phan Tich thiet ke\BTLPhantichthietke\bin\Debug\databasetaikhoan.mdf
+D:\Phan Tich thiet ke\BTLPhantichthietke\bin\Debug\databasetaikhoan_log.ldf
+D:\Phan Tich thiet ke\BTLPhantichthietke\bin\Debug\BTLPhantichthietke.exe.config
+D:\Phan Tich thiet ke\BTLPhantichthietke\bin\Debug\BTLPhantichthietke.exe
+D:\Phan Tich thiet ke\BTLPhantichthietke\bin\Debug\BTLPhantichthietke.pdb
+D:\Phan Tich thiet ke\BTLPhantichthietke\obj\Debug\BTLPhantichthietke.exe
+D:\Phan Tich thiet ke\BTLPhantichthietke\obj\Debug\BTLPhantichthietke.pdb
+D:\Phan Tich thiet ke\BTL\BTLPhantichthietke\obj\Debug\BTLPhantichthietke.csproj.AssemblyReference.cache
+D:\Phan Tich thiet ke\BTL\BTLPhantichthietke\obj\Debug\BTLPhantichthietke.csproj.SuggestedBindingRedirects.cache
+D:\Phan Tich thiet ke\BTL\BTLPhantichthietke\obj\Debug\BTLPhantichthietke.DangKy.resources
+D:\Phan Tich thiet ke\BTL\BTLPhantichthietke\obj\Debug\BTLPhantichthietke.Dangnhap.resources
+D:\Phan Tich thiet ke\BTL\BTLPhantichthietke\obj\Debug\BTLPhantichthietke.Datve.resources
+D:\Phan Tich thiet ke\BTL\BTLPhantichthietke\obj\Debug\BTLPhantichthietke.FormBPthongke.resources
+D:\Phan Tich thiet ke\BTL\BTLPhantichthietke\obj\Debug\BTLPhantichthietke.Formnvchamsockhachhang.resources
+D:\Phan Tich thiet ke\BTL\BTLPhantichthietke\obj\Debug\BTLPhantichthietke.trangchu.resources
+D:\Phan Tich thiet ke\BTL\BTLPhantichthietke\obj\Debug\BTLPhantichthietke.Properties.Resources.resources
+D:\Phan Tich thiet ke\BTL\BTLPhantichthietke\obj\Debug\BTLPhantichthietke.csproj.GenerateResource.cache
+D:\Phan Tich thiet ke\BTL\BTLPhantichthietke\obj\Debug\BTLPhantichthietke.csproj.CoreCompileInputs.cache
+D:\Phan Tich thiet ke\BTL\BTLPhantichthietke\obj\Debug\BTLPhantichthietke.exe
+D:\Phan Tich thiet ke\BTL\BTLPhantichthietke\obj\Debug\BTLPhantichthietke.pdb
+D:\Phan Tich thiet ke\BTL\BTLPhantichthietke\bin\Debug\BTLPhantichthietke.exe.config
+D:\Phan Tich thiet ke\BTL\BTLPhantichthietke\bin\Debug\BTLPhantichthietke.exe
+D:\Phan Tich thiet ke\BTL\BTLPhantichthietke\bin\Debug\BTLPhantichthietke.pdb
+D:\Phan Tich thiet ke\BTL\BTLPhantichthietke\obj\Debug\BTLPhantichthietke.FormThanhToan.resources
+D:\Documents\63HTTT1\Semester4\Phân Tích Thiết Kế\BTLPhantichthietke\bin\Debug\BTLPhantichthietke.exe.config
+D:\Documents\63HTTT1\Semester4\Phân Tích Thiết Kế\BTLPhantichthietke\bin\Debug\BTLPhantichthietke.exe
+D:\Documents\63HTTT1\Semester4\Phân Tích Thiết Kế\BTLPhantichthietke\bin\Debug\BTLPhantichthietke.pdb
+D:\Documents\63HTTT1\Semester4\Phân Tích Thiết Kế\BTLPhantichthietke\obj\Debug\BTLPhantichthietke.csproj.AssemblyReference.cache
+D:\Documents\63HTTT1\Semester4\Phân Tích Thiết Kế\BTLPhantichthietke\obj\Debug\BTLPhantichthietke.csproj.SuggestedBindingRedirects.cache
+D:\Documents\63HTTT1\Semester4\Phân Tích Thiết Kế\BTLPhantichthietke\obj\Debug\BTLPhantichthietke.DangKy.resources
+D:\Documents\63HTTT1\Semester4\Phân Tích Thiết Kế\BTLPhantichthietke\obj\Debug\BTLPhantichthietke.Dangnhap.resources
+D:\Documents\63HTTT1\Semester4\Phân Tích Thiết Kế\BTLPhantichthietke\obj\Debug\BTLPhantichthietke.Datve.resources
+D:\Documents\63HTTT1\Semester4\Phân Tích Thiết Kế\BTLPhantichthietke\obj\Debug\BTLPhantichthietke.FormBPthongke.resources
+D:\Documents\63HTTT1\Semester4\Phân Tích Thiết Kế\BTLPhantichthietke\obj\Debug\BTLPhantichthietke.Formnvchamsockhachhang.resources
+D:\Documents\63HTTT1\Semester4\Phân Tích Thiết Kế\BTLPhantichthietke\obj\Debug\BTLPhantichthietke.FormThanhToan.resources
+D:\Documents\63HTTT1\Semester4\Phân Tích Thiết Kế\BTLPhantichthietke\obj\Debug\BTLPhantichthietke.trangchu.resources
+D:\Documents\63HTTT1\Semester4\Phân Tích Thiết Kế\BTLPhantichthietke\obj\Debug\BTLPhantichthietke.Properties.Resources.resources
+D:\Documents\63HTTT1\Semester4\Phân Tích Thiết Kế\BTLPhantichthietke\obj\Debug\BTLPhantichthietke.csproj.GenerateResource.cache
+D:\Documents\63HTTT1\Semester4\Phân Tích Thiết Kế\BTLPhantichthietke\obj\Debug\BTLPhantichthietke.csproj.CoreCompileInputs.cache
+D:\Documents\63HTTT1\Semester4\Phân Tích Thiết Kế\BTLPhantichthietke\obj\Debug\BTLPhantichthietke.exe
+D:\Documents\63HTTT1\Semester4\Phân Tích Thiết Kế\BTLPhantichthietke\obj\Debug\BTLPhantichthietke.pdb
+D:\Documents\63HTTT1\Semester4\Phân Tích Thiết Kế\BTLPhantichthietke\obj\Debug\BTLPhantichthietke.Formquanly.resources
+D:\Documents\63HTTT1\Semester4\Phantichthietke\BTLPhantichthietke\bin\Debug\BTLPhantichthietke.exe.config
+D:\Documents\63HTTT1\Semester4\Phantichthietke\BTLPhantichthietke\bin\Debug\BTLPhantichthietke.exe
+D:\Documents\63HTTT1\Semester4\Phantichthietke\BTLPhantichthietke\bin\Debug\BTLPhantichthietke.pdb
+D:\Documents\63HTTT1\Semester4\Phantichthietke\BTLPhantichthietke\obj\Debug\BTLPhantichthietke.csproj.AssemblyReference.cache
+D:\Documents\63HTTT1\Semester4\Phantichthietke\BTLPhantichthietke\obj\Debug\BTLPhantichthietke.csproj.SuggestedBindingRedirects.cache
+D:\Documents\63HTTT1\Semester4\Phantichthietke\BTLPhantichthietke\obj\Debug\BTLPhantichthietke.DangKy.resources
+D:\Documents\63HTTT1\Semester4\Phantichthietke\BTLPhantichthietke\obj\Debug\BTLPhantichthietke.Dangnhap.resources
+D:\Documents\63HTTT1\Semester4\Phantichthietke\BTLPhantichthietke\obj\Debug\BTLPhantichthietke.Datve.resources
+D:\Documents\63HTTT1\Semester4\Phantichthietke\BTLPhantichthietke\obj\Debug\BTLPhantichthietke.FormBPthongke.resources
+D:\Documents\63HTTT1\Semester4\Phantichthietke\BTLPhantichthietke\obj\Debug\BTLPhantichthietke.Formnvchamsockhachhang.resources
+D:\Documents\63HTTT1\Semester4\Phantichthietke\BTLPhantichthietke\obj\Debug\BTLPhantichthietke.Formquanly.resources
+D:\Documents\63HTTT1\Semester4\Phantichthietke\BTLPhantichthietke\obj\Debug\BTLPhantichthietke.trangchu.resources
+D:\Documents\63HTTT1\Semester4\Phantichthietke\BTLPhantichthietke\obj\Debug\BTLPhantichthietke.Properties.Resources.resources
+D:\Documents\63HTTT1\Semester4\Phantichthietke\BTLPhantichthietke\obj\Debug\BTLPhantichthietke.csproj.GenerateResource.cache
+D:\Documents\63HTTT1\Semester4\Phantichthietke\BTLPhantichthietke\obj\Debug\BTLPhantichthietke.csproj.CoreCompileInputs.cache
+D:\Documents\63HTTT1\Semester4\Phantichthietke\BTLPhantichthietke\obj\Debug\BTLPhantichthietke.exe
+D:\Documents\63HTTT1\Semester4\Phantichthietke\BTLPhantichthietke\obj\Debug\BTLPhantichthietke.pdb
+C:\Users\DELL\source\repos\Winform\BTLPhantichthietke\bin\Debug\BTLPhantichthietke.exe.config
+C:\Users\DELL\source\repos\Winform\BTLPhantichthietke\bin\Debug\BTLPhantichthietke.exe
+C:\Users\DELL\source\repos\Winform\BTLPhantichthietke\bin\Debug\BTLPhantichthietke.pdb
+C:\Users\DELL\source\repos\Winform\BTLPhantichthietke\obj\Debug\BTLPhantichthietke.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\Winform\BTLPhantichthietke\obj\Debug\BTLPhantichthietke.csproj.SuggestedBindingRedirects.cache
+C:\Users\DELL\source\repos\Winform\BTLPhantichthietke\obj\Debug\BTLPhantichthietke.DangKy.resources
+C:\Users\DELL\source\repos\Winform\BTLPhantichthietke\obj\Debug\BTLPhantichthietke.Dangnhap.resources
+C:\Users\DELL\source\repos\Winform\BTLPhantichthietke\obj\Debug\BTLPhantichthietke.Datve.resources
+C:\Users\DELL\source\repos\Winform\BTLPhantichthietke\obj\Debug\BTLPhantichthietke.FormBPthongke.resources
+C:\Users\DELL\source\repos\Winform\BTLPhantichthietke\obj\Debug\BTLPhantichthietke.Formnvchamsockhachhang.resources
+C:\Users\DELL\source\repos\Winform\BTLPhantichthietke\obj\Debug\BTLPhantichthietke.Formquanly.resources
+C:\Users\DELL\source\repos\Winform\BTLPhantichthietke\obj\Debug\BTLPhantichthietke.trangchu.resources
+C:\Users\DELL\source\repos\Winform\BTLPhantichthietke\obj\Debug\BTLPhantichthietke.Properties.Resources.resources
+C:\Users\DELL\source\repos\Winform\BTLPhantichthietke\obj\Debug\BTLPhantichthietke.csproj.GenerateResource.cache
+C:\Users\DELL\source\repos\Winform\BTLPhantichthietke\obj\Debug\BTLPhantichthietke.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\Winform\BTLPhantichthietke\obj\Debug\BTLPhantichthietke.exe
+C:\Users\DELL\source\repos\Winform\BTLPhantichthietke\obj\Debug\BTLPhantichthietke.pdb
